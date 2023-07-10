@@ -1,0 +1,17 @@
+
+g	java:S101^"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÈóÑÅıÿÿÿÿ
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 53 to the 15 allowed.(Çµí‘
+P
+java:S1854&"5Remove this useless assignment to local variable "v".(õ¢ııÿÿÿÿ
+K
+java:S18549"5Remove this useless assignment to local variable "v".(ÇäÃÊ
+O	java:S106–"9Replace this use of System.out or System.err by a logger.(Ø˜í¾
+2
+java:S3626œ"Remove this redundant jump.(ûÁİ…
+2
+java:S3626¥"Remove this redundant jump.(ûÁİ…
+2
+java:S3626®"Remove this redundant jump.(ûÁİ…
+Ü
+java:S6541"ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 84 to 64, Complexity from 20 to 14, Nesting Level from 6 to 2, Number of Variables from 31 to 6.(Çµí‘
